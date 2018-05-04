@@ -34,6 +34,7 @@ List and describe your simulation's variables of uncertainty (where you're using
     
 2. The overhead cost would be a result of extra hours worked to a particular task. Which would be not more than 50% of the fixed          estimated time.
 
+3. The min and max values of the salary given to the graduate asssistant as per UIUC regulations varies from $8.25/hour to $18.00/hour depending on the position and skillset.
 
 ## Analytical Summary of your findings: (e.g. Did you adjust the scenario based on previous simulation outcomes?  What are the management decisions one could make from your simulation's output, etc.)
 
