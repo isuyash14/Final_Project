@@ -19,13 +19,21 @@ The purpose of this simulation predict the cost of completion of a project. The 
 
 1. Fixed Cost for the completion of the project
     - Normal Distribution 
-2. Total overhead cost associated with the project (Resources, Interviewing cost, Training, Certification) (30%)
+2. Total overhead cost associated with the project (Resources, Interviewing cost, Training, Certification)
     - Normal Distribution
 
 
 List and describe your simulation's variables of uncertainty (where you're using pseudo-random number generation). For each such variable, how did you decide the range and probability distribution to use?  Do you think it's a good representation of reality?
 
 ## Hypothesis or hypotheses before running the simulation:
+
+1. The time of completion of each task is as follows:
+    i. Design - 14 hours
+    ii. Development - 10 hours
+    iii. Testing - 6 hours
+    
+2. The overhead cost would be a result of extra hours worked to a particular task. Which would be not more than 50% of the fixed          estimated time.
+
 
 ## Analytical Summary of your findings: (e.g. Did you adjust the scenario based on previous simulation outcomes?  What are the management decisions one could make from your simulation's output, etc.)
 
