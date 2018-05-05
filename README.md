@@ -8,19 +8,20 @@ Monte Carlo Project Cost Estimator
 Suyash Singh
 
 # Monte Carlo Simulation Scenario & Purpose:
-The purpose of this simulation predict the cost of completion of a project. The hypothetical IT company hires graduate students with skillsets to work within 3 of the following teams.
+The purpose of this simulation predict the cost of completion of a project. The University Startup IT company hires graduate students with skillsets to work within 3 of the following teams.
 
-1. Design (Team of 2)
-2. Development (Team of 5)
-3. Testing (Team of 3)
+1. Design 
+2. Development 
+3. Testing 
 
+These student's hourly wage depends on their skillset and their total wage would depend on the number of hours they have worked on that particular task.
 
 ## Simulation's variables of uncertainty
 
 1. Fixed Cost for the completion of the project
-    - Normal Distribution 
+    - Beta-PERT Distribution  
 2. Total overhead cost associated with the project (Resources, Interviewing cost, Training, Certification)
-    - Normal Distribution
+    - Beta-Pert Distribution
 
 
 List and describe your simulation's variables of uncertainty (where you're using pseudo-random number generation). For each such variable, how did you decide the range and probability distribution to use?  Do you think it's a good representation of reality?
@@ -32,7 +33,7 @@ List and describe your simulation's variables of uncertainty (where you're using
     ii. Development - 10 hours
     iii. Testing - 6 hours
     
-2. The overhead cost would be a result of extra hours worked to a particular task. Which would be not more than 50% of the fixed          estimated time.
+2. The overhead cost would be a result of extra hours worked to a particular task. Which would range between 5% and 40%.
 
 3. The min and max values of the salary given to the graduate asssistant as per UIUC regulations varies from $8.25/hour to $18.00/hour depending on the position and skillset.
 
