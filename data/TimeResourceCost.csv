@@ -1,0 +1,5 @@
+﻿Task,Time,MinFC,LikelyFC,MaxFC,Min Pct Time,Max Pct Time,MinOH,LikelyOH,MaxOH
+Design,14,8,14.4,18,5,40,5.6,60.48,100.8
+Development,10,8,14.4,18,5,40,4,43.2,72
+Test,6,8,14.4,18,5,40,2.4,25.92,43.2
+Total,30,24,43.2,54,15,120,12,129.6,216
