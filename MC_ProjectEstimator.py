@@ -1,11 +1,11 @@
 import numpy as np
 import pandas as pd
-from pandas_datareader import data as wb
+#from pandas_datareader import data as wb
 import matplotlib.pyplot as plt
 from scipy.stats import norm
 #%matplotlib inline
 
-input_data = pd.read_csv("../data/TimeResourceCost.csv")
+input_data = pd.read_csv("data/TimeResourceCost.csv")
 
 NoOfSim = int(input("Kindly enter the no of steps for simulation: "))
 
