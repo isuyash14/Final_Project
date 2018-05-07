@@ -61,4 +61,5 @@ The overhead time could really vary given that only graduate students are hired.
 ## Instructions on how to use the program:
 
 ## All Sources Used:
-
+1. https://www.riskamp.com/beta-pert
+2. https://github.com/iSchool-590PR-2018Spring/in-class-examples/blob/master/week_12_Prob_Distributions.ipynb
