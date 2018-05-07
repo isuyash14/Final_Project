@@ -30,6 +30,7 @@ In this case the hypothetical times for the completion for the tasks are conside
  And the overhead cost is considered as 5% to 40% of the Fixed Cost
  
  #Case 2
+ 
  2. The company works on a variety of project where the time taken to complete these tasks varies to a greater extend. 
  In this case the tool will ask the client to enter an estimated time and allowable overhead time associated with that task.
  
