@@ -46,16 +46,15 @@ I feel this is a good representation of reality.
 
 On the other hand, the overhead time required to complete the project was considered to be 5% (minimum) to 40% (maximum) of the fixed time for that task and the most likely is taken to be 32%.
 
-The overhead time could really vary given that only graduate students are hired. Their availability can vary depending on various factors like exams, availability of resources, training cost for new employees, any extra certification required, interviewing cost). I feel the variability, in this case, is very difficult to predict without having some historical data.
+The overhead time could really vary given that only graduate students are hired. Their availability can vary depending on various factors like exams, availability of resources, training cost for new employees, any extra certification required, interviewing cost). I feel the variability, in this case, is very difficult to predict without having any historical data.
 
 ## Hypothesis or hypotheses before running the simulation:
 
-1. The time of completion of each task is as follows: i. Design - 14 hours ii. Development - 10 hours iii. Testing - 6 hours
+1. In case 1, The time of completion of each task is as follows: i. Design - 14 hours ii. Development - 10 hours iii. Testing - 6 hours
 
 2. The overhead cost would be a result of extra hours worked on a particular task. Which would range between 5% and 40%.
 
 3. The min and max values of the salary given to the graduate assistant as per UIUC regulations vary from $8.25/hour to $18.00/hour depending on the position and skillset.
-
 
 ## Analytical Summary of your findings: (e.g. Did you adjust the scenario based on previous simulation outcomes?  What are the management decisions one could make from your simulation's output, etc.)
 
