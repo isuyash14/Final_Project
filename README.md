@@ -58,6 +58,13 @@ The overhead time could really vary given that only graduate students are hired.
 
 ## Analytical Summary of your findings: (e.g. Did you adjust the scenario based on previous simulation outcomes?  What are the management decisions one could make from your simulation's output, etc.)
 
+Using Monte Carlo Simulation in this case,  the company would be able to make an informed decision like:
+1. How much could it cost the company per graduate student employees.
+2. The number of staff required for each task.
+3. The Cost required for each individual task.
+4. The Total Estimated cost for the completion of the project.
+5. In case of delays, the client could always go back and mention the updated time and find out the new estimated cost for task/project.
+
 ## Instructions on how to use the program:
 
 ## All Sources Used:
